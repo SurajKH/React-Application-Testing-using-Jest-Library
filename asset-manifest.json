@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Application-Testing-using-Jest-Library/static/css/main.67ba2191.css",
-    "main.js": "/React-Application-Testing-using-Jest-Library/static/js/main.6b303325.js",
-    "static/js/787.dce9feec.chunk.js": "/React-Application-Testing-using-Jest-Library/static/js/787.dce9feec.chunk.js",
-    "index.html": "/React-Application-Testing-using-Jest-Library/index.html",
-    "main.67ba2191.css.map": "/React-Application-Testing-using-Jest-Library/static/css/main.67ba2191.css.map",
-    "main.6b303325.js.map": "/React-Application-Testing-using-Jest-Library/static/js/main.6b303325.js.map",
-    "787.dce9feec.chunk.js.map": "/React-Application-Testing-using-Jest-Library/static/js/787.dce9feec.chunk.js.map"
+    "main.css": "/react-application-testing-using-jest-library.git/static/css/main.67ba2191.css",
+    "main.js": "/react-application-testing-using-jest-library.git/static/js/main.33831d71.js",
+    "static/js/787.dce9feec.chunk.js": "/react-application-testing-using-jest-library.git/static/js/787.dce9feec.chunk.js",
+    "index.html": "/react-application-testing-using-jest-library.git/index.html",
+    "main.67ba2191.css.map": "/react-application-testing-using-jest-library.git/static/css/main.67ba2191.css.map",
+    "main.33831d71.js.map": "/react-application-testing-using-jest-library.git/static/js/main.33831d71.js.map",
+    "787.dce9feec.chunk.js.map": "/react-application-testing-using-jest-library.git/static/js/787.dce9feec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67ba2191.css",
-    "static/js/main.6b303325.js"
+    "static/js/main.33831d71.js"
   ]
 }
